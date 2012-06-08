@@ -1,5 +1,5 @@
 /*
- * Transformacion.h
+ * transformacion.h
  *
  *  Created on: May 31, 2012
  *      Author: hkr

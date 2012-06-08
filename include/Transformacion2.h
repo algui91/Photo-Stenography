@@ -1,5 +1,6 @@
 /*
  * @file Transformacion2.h
+ *
  * @brief Clase Transformación usando memória estática
  *  Created on: Mar 15, 2012
  *      @author: Alejandro Alcalde

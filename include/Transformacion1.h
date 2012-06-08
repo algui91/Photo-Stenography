@@ -1,5 +1,6 @@
 /*
  * @file Transformacion1.h
+ *
  * @brief Clase Transformación usando memória dinámica
  *  Created on: Mar 15, 2012
  *      @author: Alejandro Alcalde

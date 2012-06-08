@@ -1,5 +1,5 @@
 /**
-  * @file Procesar.h
+  * @file procesar.h
   * @brief Fichero cabecera que oculta/revela mensajes
   *
   * @author Alejandro Alcalde Barros

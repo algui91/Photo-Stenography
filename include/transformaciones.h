@@ -1,5 +1,5 @@
 /*
- * transformar.h
+ * transformaciones.h
  *
  *  Created on: Apr 18, 2012
  *      Author: hkr
