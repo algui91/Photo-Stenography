@@ -8,8 +8,8 @@ do
    for i in $trans
    do
       file=`basename $img"_"$i`".png"
-      echo "ejecutando... ./bin/transformar $img $i $file"
-      ./bin/transformar $img $i $file
+      echo "ejecutando... ./bin/transformar $img $i img/$file"
+      ./bin/transformar $img $i "img/"$file
    done
 done
    

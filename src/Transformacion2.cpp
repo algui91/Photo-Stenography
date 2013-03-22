@@ -14,13 +14,13 @@ Transformacion::Transformacion(){
 }
 
 //----------------------------------------------------------------------------------------------------------------------
-
+/*
 Transformacion& Transformacion::operator=(const Transformacion &transformacion){
 	for(int i=0;i<TAM;i++)
 		this->set(i, transformacion.get(i));
 
 	return *this;
-}
+}*/
 
 //----------------------------------------------------------------------------------------------------------------------
 

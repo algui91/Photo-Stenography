@@ -7,8 +7,9 @@ do
    for i in $trans
    do
       #file=`basename $img"_"$i`".png"
-      echo "./bin/componer t $e$i $e $i"
-      ./bin/componer t $e$i ./datos/$e ./datos/$i
-      #./bin/componer b $e$i ./datos/$e ./datos/$i
+      echo "./bin/componer t TXT_$e$i $e $i"
+      ./bin/componer t datos/"TXT_"$e$i ./datos/$e ./datos/$i
+      echo "./bin/componer b BIN_$e$i $e $i"
+      ./bin/componer b datos/"BIN_"$e$i ./datos/$e ./datos/$i
    done
 done

@@ -25,7 +25,7 @@ public:
 	/**
 	 * Constructor copia
 	 */
-	Transformacion& operator=(const Transformacion&);
+	//Transformacion& operator=(const Transformacion&);
 
 	/**
 	 *	Modificar posición del array
