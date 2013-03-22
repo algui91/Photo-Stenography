@@ -20,7 +20,7 @@
   * @param columnas Columnas de la imagen.
   * @param mensaje Mensaje a ocultar en la imagen
   * @param tamaño Tamaño del mensaje a cifrar.
-  * @return 0 si todo fue bien
+  * @return 0 si tódo fue bien
   * @return -1 si la imagen es demasiado pequeña para el mensaje a cifrar
   * @pre buffer debe ser una zona de memoria suficientemente grande como para
   * almacenar @a filas x @a columnas bytes de datos de la imagen.

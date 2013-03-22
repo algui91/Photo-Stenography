@@ -9,6 +9,7 @@
 #include "../include/procesar.h"
 #include <string.h>
 #include <iostream>
+#include <istream>
 
 using namespace std;
 

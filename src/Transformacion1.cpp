@@ -42,7 +42,7 @@ Transformacion& Transformacion::operator=(const Transformacion& transformacion){
 bool Transformacion::write(const char* file, char modo){
 
 	ofstream f;
-	//TODO: Optimizar, demasiado código
+
 	switch(modo){
 		case 't':
 			if (f){

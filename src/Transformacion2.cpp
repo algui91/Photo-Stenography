@@ -14,13 +14,13 @@ Transformacion::Transformacion(){
 }
 
 //----------------------------------------------------------------------------------------------------------------------
-
+/*
 Transformacion& Transformacion::operator=(const Transformacion &transformacion){
 	for(int i=0;i<TAM;i++)
 		this->set(i, transformacion.get(i));
 
 	return *this;
-}
+}*/
 
 //----------------------------------------------------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ bool Transformacion::read(const char* file){
 bool Transformacion::write(const char* file, char modo){
 
 	ofstream f;
-	//TODO: Optimizar, demasiado código
+
 	switch(modo){
 		case 't':
 			if (f){
