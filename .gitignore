@@ -1,5 +1,9 @@
 bin/
 /*.pgm
+
+# Ignore Eclipse project files
+.cproject
+.project
 # Compiled Object files
 *.slo
 *.lo
